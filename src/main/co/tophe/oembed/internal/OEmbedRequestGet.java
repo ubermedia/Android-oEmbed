@@ -1,6 +1,6 @@
 package co.tophe.oembed.internal;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import co.tophe.oembed.OEmbed;
 import co.tophe.oembed.OEmbedRequest;

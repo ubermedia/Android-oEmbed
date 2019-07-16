@@ -1,7 +1,7 @@
 package co.tophe.oembed;
 
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import co.tophe.HttpException;
 import co.tophe.ServerException;

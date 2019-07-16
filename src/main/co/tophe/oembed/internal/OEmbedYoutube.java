@@ -3,7 +3,7 @@ package co.tophe.oembed.internal;
 import java.util.List;
 
 import android.net.Uri;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import co.tophe.oembed.OEmbedSource;
 

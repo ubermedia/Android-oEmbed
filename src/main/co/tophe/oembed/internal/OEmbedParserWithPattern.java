@@ -3,7 +3,7 @@ package co.tophe.oembed.internal;
 import java.util.regex.Pattern;
 
 import android.net.Uri;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 public abstract class OEmbedParserWithPattern implements OEmbedParser {
 
